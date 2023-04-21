@@ -15,7 +15,7 @@ thead {
     background-color: rgb(166, 166, 166);
 }
 
-p {
+.author {
     position: absolute;
     right: 40px;
     top: 50px;
@@ -86,4 +86,19 @@ button {
   button:hover {
     background-color: rgb(70, 70, 255);
   }
+
+#solid-count {
+    margin-top: 10px;
+    display: inline-block;
+    text-align: center;
+}
+
+#count-container {
+    text-align: center;
+}
+
+#solid-count {
+    margin-top: 10px;
+    display: inline-block;
+}
   
