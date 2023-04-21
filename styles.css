@@ -15,7 +15,7 @@ thead {
     background-color: rgb(166, 166, 166);
 }
 
-p {
+.author {
     position: absolute;
     right: 40px;
     top: 50px;
@@ -67,3 +67,38 @@ h3 {
     font-family: Roboto;
     font-size: 18px;
 }
+
+
+button {
+    background-color: midnightblue;
+    border: none;
+    color: white;
+    padding: 12px 24px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 4px;
+  }
+  
+  button:hover {
+    background-color: rgb(70, 70, 255);
+  }
+
+#solid-count {
+    margin-top: 10px;
+    display: inline-block;
+    text-align: center;
+}
+
+#count-container {
+    text-align: center;
+}
+
+#solid-count {
+    margin-top: 10px;
+    display: inline-block;
+}
+  
