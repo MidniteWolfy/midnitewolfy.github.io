@@ -67,3 +67,23 @@ h3 {
     font-family: Roboto;
     font-size: 18px;
 }
+
+
+button {
+    background-color: midnightblue;
+    border: none;
+    color: white;
+    padding: 12px 24px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 4px;
+  }
+  
+  button:hover {
+    background-color: rgb(70, 70, 255);
+  }
+  
